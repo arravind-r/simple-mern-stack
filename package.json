@@ -1,0 +1,49 @@
+{
+  "name": "my-mern-stack",
+  "version": "1.0.0",
+  "description": "A Simple MERN Stack Boilerplate",
+  "main": "index.js",
+  "scripts": {
+    "start": "babel-node src/server/app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/arravind-r/simple-mern-stack.git"
+  },
+  "keywords": [
+    "mern",
+    "stack",
+    "mern",
+    "mern",
+    "boilerplate",
+    "mern",
+    "stack",
+    "fullstack",
+    "boilerplate"
+  ],
+  "author": "arravind-r",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/arravind-r/simple-mern-stack/issues"
+  },
+  "homepage": "https://github.com/arravind-r/simple-mern-stack#readme",
+  "dependencies": {
+    "express": "^4.16.4",
+    "react": "^16.8.2",
+    "react-dom": "^16.8.2",
+    "webpack": "^4.29.5",
+    "webpack-cli": "^3.2.3",
+    "webpack-dev-server": "^3.1.14"
+  },
+  "devDependencies": {
+    "@babel/cli": "^7.2.3",
+    "@babel/core": "^7.3.3",
+    "@babel/node": "^7.2.2",
+    "@babel/polyfill": "^7.2.5",
+    "@babel/preset-env": "^7.3.1",
+    "@babel/preset-react": "^7.0.0",
+    "@babel/preset-stage-0": "^7.0.0",
+    "babel-loader": "^8.0.5"
+  }
+}
