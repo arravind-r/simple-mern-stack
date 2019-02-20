@@ -1,4 +1,24 @@
-#root {
-  text-align: center;
-  padding: 25px;
+html, body, #root{
+  height: 100%;
+}
+body{
+  margin: 0;
+  padding: 0;
+  background-color: #eeeeee;
+  font-family: monospace;
+}
+.content-wrap {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 100%;
+}
+a.github-btn {
+  margin-top: 25px;
+  background-color: #000;
+  color: #fff;
+  font-size: 20px;
+  padding: 8px 20px;
+  border-radius: 25px;
 }
