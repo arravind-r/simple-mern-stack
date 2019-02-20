@@ -16,7 +16,7 @@
 
 ### Steps to connect with mongoDB
 <ul>
-    <li>Create a "<b>.env</b>" file in the root directory of the projects</li>
+    <li>Create a "<b>.env</b>" file in the server directory of your project</li>
     <li>In that file place the following line</li>
 </ul>
 <code>
