@@ -1,4 +1,4 @@
-# Simple MERN Stack Boilerplate
+# Simple MERN Stack Boilerplate - Update Feb, 2019
 <p>A Simple <b>MERN Stack</b> Boilerplate To Get Started Fast For Development</p>
 <p>Enter "<b>npm start</b>" or "<b>yarn start</b>" to get started.</p>
 <p>This Boilerplate is built using MERN stack</p>
