@@ -1,8 +1,7 @@
-node_modules/
-.gitignore
+node_modules
+dist
+.idea
 .env
-.idea/
-.idea/workspace.xml
-.idea/watcherTasks.xml
-public/bundle.js
+.server/.env
+package-lock.json
 yarn.lock
