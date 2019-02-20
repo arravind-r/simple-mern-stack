@@ -5,3 +5,5 @@ dist
 .server/.env
 package-lock.json
 yarn.lock
+.idea/misc.xml
+.idea/misc.xml
