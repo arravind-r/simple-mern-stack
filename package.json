@@ -31,6 +31,7 @@
   "homepage": "https://github.com/arravind-r/simple-mern-stack#readme",
   "dependencies": {
     "express": "^4.16.4",
+    "mongoose": "^5.4.14",
     "react": "^16.8.2",
     "react-dom": "^16.8.2",
     "webpack": "^4.29.5",
