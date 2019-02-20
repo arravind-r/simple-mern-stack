@@ -1,4 +1,7 @@
 node_modules/
+.gitignore
+.env
+.idea/
 .idea/workspace.xml
 .idea/watcherTasks.xml
 public/bundle.js
