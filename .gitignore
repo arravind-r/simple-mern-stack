@@ -1,2 +1,5 @@
 node_modules/
 .idea/workspace.xml
+.idea/watcherTasks.xml
+public/bundle.js
+yarn.lock
